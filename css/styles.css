@@ -1,0 +1,13 @@
+.before {
+  float: right;
+}
+
+
+.column{
+  width:300px;
+  float: left;
+}
+
+.photo {
+  float: right;
+}
